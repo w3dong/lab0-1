@@ -1,7 +1,6 @@
 # Weiwen Dong
-## Overview
-[Technical Intro]()
-[Personal Intro]()
+![This is a profile image](https://github.com/w3dong/lab0-1/blob/main/images/profile.png)
+
 ## Introduction as a Programmer
 **Hello World!**
 Or probably I should say
@@ -14,8 +13,11 @@ I am good at using HTML, CSS, Javascript, Node.js, Express.js, and other popular
 
 Quoting my favorite sentence:
 > Knowledge is of no value unless you put it into practice
+
 I am doing my best to study modern tools and making my ideas come to real life with new knowledge I learned. 
-If you are interested, here is the list for what I am planning on to improve/learn in the following quarters
+
+If you are interested, here is the list for what I am planning on to improve/learn in the following quarters.
+
 - javascript
 - typescript
 - react
@@ -26,16 +28,20 @@ If you are interested, here is the list for what I am planning on to improve/lea
   
 ## Introduction as Me
 I am also a ***baker, writer, and photographer***, who enjoys cooking, filming, and writing blogs about various food I made. 
+
 If I have to rank foods that I'm good at cooking
+
 1. Desserts! (Cake, Cookie,..)
 2. Chinese, Japanese, Korean cusine
 3. Italian
 4. ..More food to discover!
-... Maybe you wonder about what food I want to learn and make?
--[] Churros
--[] soufflé
--[] Macroon (Tried before but wanna improve)
--[] Puff Tower
+
+Maybe you wonder about what food I want to learn and make?
+
+ - [ ] Churros
+ - [ ] soufflé
+ - [ ] Macroon (Tried before but wanna improve)
+ - [ ] Puff Tower
 
 That's all for today.
 Thank u for reading this post!
