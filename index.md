@@ -1,5 +1,5 @@
 # Weiwen Dong
-![This is a profile image](https://github.com/w3dong/lab0-1/blob/main/images/profile.png)
+<img src="https://github.com/w3dong/lab0-1/blob/main/images/profile.png" alt="profile image" width="300">
 
 ## Introduction as a Programmer
 **Hello World!**
@@ -9,7 +9,7 @@ System.out.println("Hello World!");
 ```
 
 I'm Weiwen Dong, a junior student at UCSD who majors in *Bioinformatics*. I am a programmer who enjoys ***web development***, and have built RPG website game [Memorize](https://w3dong.github.io/memorize/) and website application like a [to-do-list app](https://shielded-thicket-02071.herokuapp.com/) and [blog website](https://sleepy-bayou-84869.herokuapp.com/) from scratch.
-I am good at using HTML, CSS, Javascript, Node.js, Express.js, and other popular tools to implement good ideas I think of. 
+I am good at using HTML, CSS, Javascript, Node.js, Express.js, React, and other popular tools to implement good ideas I think of. 
 
 Quoting my favorite sentence:
 > Knowledge is of no value unless you put it into practice
@@ -27,13 +27,13 @@ If you are interested, here is the list for what I am planning on to improve/lea
 - ... and more!
   
 ## Introduction as Me
-I am also a ***baker, writer, and photographer***, who enjoys cooking, filming, and writing blogs about various food I made. 
+I am also a ***baker, writer, and photographer***, who enjoys cooking, filming, and writing blogs about various food I made in my spare time. 
 
 If I have to rank foods that I'm good at cooking
 
 1. Desserts! (Cake, Cookie,..)
-2. Chinese, Japanese, Korean cusine
-3. Italian
+2. Chinese, Japanese, Korean food
+3. Italian (I home-made pizzas and pastas)
 4. ..More food to discover!
 
 Maybe you wonder about what food I want to learn and make?
