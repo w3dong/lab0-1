@@ -1,5 +1,5 @@
 # Weiwen Dong
-<img src="https://github.com/w3dong/lab0-1/blob/main/images/profile.png" alt="profile image" width="300">
+<img src="https://play-lh.googleusercontent.com/KnFMQzTkrsWoyFZPDovbEGxYbrJF_37APuzIPhYCT_dAFRBKCu57sDiezvQBxoSd5s4=w240-h480-rw" alt="profile image" >
 
 ## Introduction as a Programmer
 **Hello World!**
@@ -47,3 +47,4 @@ That's all for today.
 Thank u for reading this post!
 
 If you still wonder where you can find more informations about me, check [README](README.md).
+Or, if you want to see how I exist in physical human mode in the world, check [PROFILE](https://github.com/w3dong/lab0-1/blob/main/images/profile.png).
